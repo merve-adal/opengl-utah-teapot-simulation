@@ -1,6 +1,8 @@
 # OpenGL Utah Teapot Interactive Simulation
 
-This repository contains the complete implementation for **Project #2 - Utah Teapot**, developed as part of the **CSE 411 - Computer Graphics** course at Aydın Adnan Menderes University. The project demonstrates core computer graphics concepts including 3D geometric transformations, camera and matrix management, multi-window synchronization, and advanced lighting models using **C++** and the **OpenGL/GLUT** libraries.
+This repository contains the complete implementation for **Utah Teapot**, developed as part of the **Computer Graphics** course at Aydın Adnan Menderes University. The project demonstrates core computer graphics concepts including 3D geometric transformations, camera and matrix management, multi-window synchronization, and advanced lighting models using **C++** and the **OpenGL/GLUT** libraries.
+
+<img width="1009" height="534" alt="Ekran görüntüsü 2026-09-13 170354" src="https://github.com/user-attachments/assets/2498c74b-fa98-440b-a9cf-c2b759bd3d91" />
 
 ---
 
